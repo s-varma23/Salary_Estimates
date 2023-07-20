@@ -1,0 +1,6 @@
+all_data_M_2022.xlsx filter=lfs diff=lfs merge=lfs -text
+all_data_M_2020.xlsx filter=lfs diff=lfs merge=lfs -text
+all_data_M_2021.xlsx filter=lfs diff=lfs merge=lfs -text
+state_M2019_dl.xlsx filter=lfs diff=lfs merge=lfs -text
+state_M2018_dl.xlsx filter=lfs diff=lfs merge=lfs -text
+state_M2017_dl.xlsx filter=lfs diff=lfs merge=lfs -text
